@@ -1,0 +1,247 @@
+{
+ "_label": "Fun facts, all from cited Wikipedia articles (accessed 2026-10-11). Uniform numbers for retired players are from Wikipedia's List of Major League Baseball retired numbers.",
+ "history": {
+  "source": "https://en.wikipedia.org/wiki/Chicago_Cubs",
+  "source_name": "Wikipedia - Chicago Cubs",
+  "timeline": [
+   [
+    "1870",
+    "Founded as the Chicago White Stockings."
+   ],
+   [
+    "1876",
+    "National League charter franchise - one of two remaining from the NL's first season."
+   ],
+   [
+    "1902-1907",
+    "The Chicago Daily News calls the young team the 'Cubs' (1902); name adopted officially five years later."
+   ],
+   [
+    "1906",
+    "116-36 (.763), the modern-era record winning percentage - then lost the World Series to the crosstown White Sox."
+   ],
+   [
+    "1907-1908",
+    "Back-to-back World Series titles; first team to play in three straight World Series and first to win two."
+   ],
+   [
+    "1910",
+    "'Baseball's Sad Lexicon' immortalizes Tinker to Evers to Chance."
+   ],
+   [
+    "1916",
+    "First Cubs game at what is now Wrigley Field (April 20): 7-6 over the Reds in 11 innings."
+   ],
+   [
+    "1921",
+    "William Wrigley Jr. acquires the club."
+   ],
+   [
+    "1945",
+    "Pennant, then a World Series loss to Detroit - the 'Curse of the Billy Goat' year."
+   ],
+   [
+    "1969",
+    "The 'Fall of '69'."
+   ],
+   [
+    "1988",
+    "Lights installed at Wrigley Field."
+   ],
+   [
+    "2003",
+    "'Five more outs' from the World Series."
+   ],
+   [
+    "2016",
+    "103 wins; beat Cleveland after trailing the World Series 3 games to 1, ending a 108-year title drought. The parade drew ~5 million."
+   ],
+   [
+    "2020",
+    "Theo Epstein resigns as president (Nov 17); Jed Hoyer succeeds him."
+   ],
+   [
+    "2021",
+    "Carter Hawkins hired as general manager."
+   ]
+  ],
+  "championships": [
+   1907,
+   1908,
+   2016
+  ],
+  "retired": [
+   [
+    "10",
+    "Ron Santo",
+    "3B",
+    "Sep 28, 2003"
+   ],
+   [
+    "14",
+    "Ernie Banks",
+    "SS, 1B",
+    "Aug 22, 1982"
+   ],
+   [
+    "23",
+    "Ryne Sandberg",
+    "2B",
+    "Aug 28, 2005"
+   ],
+   [
+    "26",
+    "Billy Williams",
+    "LF",
+    "Aug 13, 1987"
+   ],
+   [
+    "31",
+    "Ferguson Jenkins",
+    "P",
+    "May 3, 2009"
+   ],
+   [
+    "31",
+    "Greg Maddux",
+    "P",
+    "May 3, 2009"
+   ],
+   [
+    "42",
+    "Jackie Robinson",
+    "All MLB",
+    "Apr 15, 1997"
+   ]
+  ],
+  "rivalry": "Cardinals (the I-55 Series; Cubs lead 1,253-1,196 through Oct 2021), Brewers (the I-94 rivalry; 2018 Game 163 went to Milwaukee) and the crosstown White Sox (1906 World Series; White Sox lead the regular-season series 72-64). Retired-number flags fly from the Wrigley foul poles."
+ },
+ "uniforms": {
+  "source": "https://en.wikipedia.org/wiki/Chicago_Cubs#Uniforms",
+  "source_name": "Wikipedia - Chicago Cubs: Uniforms",
+  "timeline": [
+   [
+    "Early years",
+    "'Standing cub' logo, a primitive 'C-UBS' mark, a 'wishbone C' (later adopted by the Bears); navy blue and sometimes red until the mid-1940s, then royal blue and red."
+   ],
+   [
+    "1957",
+    "First version of today's pinstriped home uniform."
+   ],
+   [
+    "1959",
+    "All-blue cap with red 'C' outlined in white first worn - still the main cap."
+   ],
+   [
+    "1962",
+    "Cub-head sleeve patch added."
+   ],
+   [
+    "1972",
+    "Switch to pullovers."
+   ],
+   [
+    "1976-1979",
+    "Powder-blue road uniforms; pinstripes added 1978, names 1979."
+   ],
+   [
+    "1982-1989",
+    "Blue road tops with plain white pants."
+   ],
+   [
+    "1990",
+    "Back to buttoned gray road uniforms."
+   ],
+   [
+    "1994",
+    "Blue alternate returns; 'cute cub' patch."
+   ],
+   [
+    "1997",
+    "Current road grays (radial 'Chicago') and blue alternate; 'walking cub' sleeve patch."
+   ],
+   [
+    "2021",
+    "'Wrigleyville' City Connect: navy with light blue, marquee-inspired wordmark, Chicago-flag star on the cap (worn until 2024)."
+   ],
+   [
+    "2024",
+    "First uniform sponsor: Motorola Mobility."
+   ],
+   [
+    "2025",
+    "Powder-blue home alternate inspired by Chicago blues music, with a guitar-pick city logo; worn for summer Friday day games."
+   ]
+  ]
+ },
+ "park": {
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wrigley_Field"
+  ],
+  "dims_note": "Field size per Wikipedia infobox.",
+  "dims": {
+   "Left field": "355 ft",
+   "Left-center": "368 ft",
+   "Center field": "400 ft",
+   "Right-center": "368 ft",
+   "Right field": "353 ft",
+   "Backstop": "55 ft",
+   "Wall height (bleachers)": "11 ft 6 in",
+   "Wall height (corners)": "15 ft"
+  },
+  "facts": [
+   [
+    "Opened",
+    "April 23, 1914 as Weeghman Park for the Federal League's Chicago Whales; Cubs Park 1920-26; Wrigley Field since 1927."
+   ],
+   [
+    "Age",
+    "Oldest park in the National League and second-oldest in MLB after Fenway (1912); the only remaining Federal League park."
+   ],
+   [
+    "Landmark",
+    "Chicago Landmark (2004); National Historic Landmark (Sept 23, 2020)."
+   ],
+   [
+    "Ivy",
+    "Planted in 1937 at Bill Veeck's suggestion; now Boston ivy, which survives Chicago winters. It turns red in autumn."
+   ],
+   [
+    "Scoreboard",
+    "Hand-turned, installed 1937; the clock (added 1941) has never lost time."
+   ],
+   [
+    "Marquee",
+    "Red art-deco marquee over the main entrance, installed 1934 (originally green), painted red in 1960."
+   ],
+   [
+    "Lights",
+    "Last MLB park to add lights, in 1988; night games are still limited by agreement with the city."
+   ],
+   [
+    "W / L flags",
+    "A 'W' or 'L' flag flies from the scoreboard after every game - a tradition since the 1937 rebuild."
+   ],
+   [
+    "Wind",
+    "Lake Michigan is under a mile away: spring winds blow in, summer winds can blow out - one of MLB's most unpredictable parks."
+   ],
+   [
+    "Rooftops",
+    "Fans watch from rooftops on Waveland and Sheffield beyond the outfield."
+   ],
+   [
+    "Capacity",
+    "41,649. Record attendance 47,171 (Aug 31, 1948 vs. Brooklyn)."
+   ],
+   [
+    "Football",
+    "Home of the Chicago Bears 1921-1970."
+   ],
+   [
+    "Nickname",
+    "'The Friendly Confines', popularized by Ernie Banks. Address: 1060 W. Addison St."
+   ]
+  ]
+ }
+}

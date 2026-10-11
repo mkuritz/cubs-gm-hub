@@ -1,0 +1,68 @@
+{
+ "data": [
+  {
+   "date": "2026-09-29T17:37Z",
+   "detail": "Steele (elbow) is not on the Cubs' roster for their wild-card series versus the Padres, Meghan Montemurro of the Chicago Tribune reports.",
+   "name": "Justin Steele",
+   "status": "60-Day-IL",
+   "type": "Elbow"
+  },
+  {
+   "date": "2026-09-15T22:52Z",
+   "detail": "Manager Craig Counsell said Tuesday that the Cubs have shut down Miller's (elbow) rehab, Meghan Montemurro of the Chicago Tribune reports.",
+   "name": "Shelby Miller",
+   "status": "60-Day-IL",
+   "type": "Elbow"
+  },
+  {
+   "date": "2026-09-03T20:37Z",
+   "detail": "Brown (neck) has been ruled out for the remainder of the season, Taylor McGregor of Marquee Sports Network reports.",
+   "name": "Ben Brown",
+   "status": "60-Day-IL",
+   "type": "Neck"
+  },
+  {
+   "date": "2026-08-19T22:02Z",
+   "detail": "The Cubs transferred Maton (knee) to the 60-day injured list Wednesday.",
+   "name": "Phil Maton",
+   "status": "60-Day-IL",
+   "type": "Knee"
+  },
+  {
+   "date": "2026-08-19T17:19Z",
+   "detail": "Cubs manager Craig Counsell said Wednesday that Martin (elbow) has been ruled out for the remainder of the season, Meghan Montemurro of the Chicago Tribune reports.",
+   "name": "Riley Martin",
+   "status": "60-Day-IL",
+   "type": "Elbow"
+  },
+  {
+   "date": "2026-08-19T17:16Z",
+   "detail": "Cubs manager Craig Counsell said Wednesday that Harvey's (triceps/shoulder) rehab hasn't come along as hoped, Meghan Montemurro of the Chicago Tribune reports.",
+   "name": "Hunter Harvey",
+   "status": "60-Day-IL",
+   "type": "Triceps"
+  },
+  {
+   "date": "2026-05-08T11:02Z",
+   "detail": "The Cubs transferred Hodge (elbow) to the 60-day injured list Friday, Taylor McGregor of Marquee Sports Network reports.",
+   "name": "Porter Hodge",
+   "status": "60-Day-IL",
+   "type": "Elbow"
+  },
+  {
+   "date": "2026-05-08T11:02Z",
+   "detail": "The Cubs transferred Horton (elbow) to the 60-day injured list Saturday, Andy Martinez of Marquee Sports Network reports.",
+   "name": "Cade Horton",
+   "status": "60-Day-IL",
+   "type": "Elbow"
+  },
+  {
+   "date": "2026-05-08T11:02Z",
+   "detail": "The Cubs placed Austin (knee) on the 60-day injured list Tuesday.",
+   "name": "Tyler Austin",
+   "status": "60-Day-IL",
+   "type": "Knee"
+  }
+ ],
+ "updated": "2026-10-11T19:39:33-04:00"
+}

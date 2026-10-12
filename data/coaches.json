@@ -1,0 +1,77 @@
+{
+ "updated": "2026-10-12",
+ "source": "MLB Stats API /teams/112/coaches (2026 season)",
+ "url": "https://statsapi.mlb.com/api/v1/teams/112/coaches?season=2026",
+ "staff": [
+  {
+   "name": "Craig Counsell",
+   "role": "Manager",
+   "num": "11"
+  },
+  {
+   "name": "Ryan Flaherty",
+   "role": "Bench Coach",
+   "num": "84"
+  },
+  {
+   "name": "Tommy Hottovy",
+   "role": "Pitching Coach",
+   "num": "68"
+  },
+  {
+   "name": "Dustin Kelly",
+   "role": "Hitting Coach",
+   "num": "76"
+  },
+  {
+   "name": "Mark Strittmatter",
+   "role": "Bullpen Coach",
+   "num": "81"
+  },
+  {
+   "name": "Juan Cabreja",
+   "role": "Assistant Hitting Coach",
+   "num": "63"
+  },
+  {
+   "name": "John Mallee",
+   "role": "Assistant Hitting Coach",
+   "num": "80"
+  },
+  {
+   "name": "Casey Jacobson",
+   "role": "Assistant Pitching Coach",
+   "num": "86"
+  },
+  {
+   "name": "Jose Javier",
+   "role": "First Base Coach",
+   "num": "65"
+  },
+  {
+   "name": "Quintin Berry",
+   "role": "Third Base Coach",
+   "num": "0"
+  },
+  {
+   "name": "Jonathan Mota",
+   "role": "Major League Coach",
+   "num": "90"
+  },
+  {
+   "name": "AJ Lewis",
+   "role": "Staff Assistant",
+   "num": "74"
+  },
+  {
+   "name": "Erick Castillo",
+   "role": "Bullpen Catcher",
+   "num": "93"
+  },
+  {
+   "name": "Garrett Lloyd",
+   "role": "Bullpen Catcher",
+   "num": "85"
+  }
+ ]
+}

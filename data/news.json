@@ -2,7 +2,7 @@
  "data": {
   "items": [
    {
-    "date": "2026-10-12T16:14-04:00",
+    "date": "2026-10-12T16:20-04:00",
     "kind": "news",
     "players": [],
     "source": "MLB.com",
@@ -10,7 +10,7 @@
     "tags": [
      "prospect"
     ],
-    "title": "Watch LIVE: Cubs prospects in Arizona Fall League action",
+    "title": "Watch Cubs prospects in Arizona Fall League action",
     "url": "https://www.mlb.com/cubs/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
    },
    {
@@ -523,5 +523,5 @@
    }
   ]
  },
- "updated": "2026-10-12T16:17:59-04:00"
+ "updated": "2026-10-12T17:39:01-04:00"
 }

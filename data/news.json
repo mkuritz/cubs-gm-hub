@@ -2,7 +2,17 @@
  "data": {
   "items": [
    {
-    "date": "2026-10-13T21:26-04:00",
+    "date": "2026-10-14T07:19-04:00",
+    "kind": "news",
+    "players": [],
+    "source": "MLB.com",
+    "summary": "",
+    "tags": [],
+    "title": "These players stood out in Cubs\u2019 farm system in \u201826",
+    "url": "https://www.mlb.com/cubs/news/cubs-prospects-who-stood-out-in-2026"
+   },
+   {
+    "date": "2026-10-14T00:34-04:00",
     "kind": "news",
     "players": [],
     "source": "MLB.com",
@@ -284,16 +294,6 @@
     "url": "https://www.mlb.com/cubs/news/how-the-2026-mlb-playoff-teams-were-built"
    },
    {
-    "date": "2026-09-29T11:00-04:00",
-    "kind": "news",
-    "players": [],
-    "source": "MLB.com",
-    "summary": "",
-    "tags": [],
-    "title": "Here is why each playoff team could win the World Series",
-    "url": "https://www.mlb.com/cubs/news/how-each-mlb-playoff-team-could-win-the-world-series"
-   },
-   {
     "date": "2026-09-29T08:03:28Z",
     "kind": "news",
     "players": [],
@@ -523,5 +523,5 @@
    }
   ]
  },
- "updated": "2026-10-13T21:59:11-04:00"
+ "updated": "2026-10-14T11:49:57-04:00"
 }

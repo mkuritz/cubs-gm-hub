@@ -2,17 +2,7 @@
  "data": {
   "items": [
    {
-    "date": "2026-10-13T15:35:15Z",
-    "kind": "news",
-    "players": [],
-    "source": "ESPN",
-    "summary": "Here's how the winter looks in Chicago after squandering a 2-0 series lead against the Guardians.",
-    "tags": [],
-    "title": "Biggest offseason questions for teams eliminated from MLB playoffs",
-    "url": "https://www.espn.com/mlb/story/_/id/50052092/mlb-playoffs-2026-offseason-eliminated-teams-questions"
-   },
-   {
-    "date": "2026-10-12T23:20-04:00",
+    "date": "2026-10-13T21:26-04:00",
     "kind": "news",
     "players": [],
     "source": "MLB.com",
@@ -22,6 +12,16 @@
     ],
     "title": "Watch Cubs prospects in Arizona Fall League action",
     "url": "https://www.mlb.com/cubs/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+   },
+   {
+    "date": "2026-10-13T15:35:15Z",
+    "kind": "news",
+    "players": [],
+    "source": "ESPN",
+    "summary": "Here's how the winter looks in Chicago after squandering a 2-0 series lead against the Guardians.",
+    "tags": [],
+    "title": "Biggest offseason questions for teams eliminated from MLB playoffs",
+    "url": "https://www.espn.com/mlb/story/_/id/50052092/mlb-playoffs-2026-offseason-eliminated-teams-questions"
    },
    {
     "date": "2026-10-10T11:02-04:00",
@@ -523,5 +523,5 @@
    }
   ]
  },
- "updated": "2026-10-13T14:19:03-04:00"
+ "updated": "2026-10-13T21:59:11-04:00"
 }

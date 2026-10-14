@@ -2,8 +2,8 @@
  "data": [
   {
    "date": "2026-10-02",
-   "desc": "Chicago Cubs signed free agent 2B Rodelvis Santiesteban to a minor league contract.",
-   "player": "Rodelvis Santiesteban",
+   "desc": "Chicago Cubs signed free agent RHP Elvin Cepeda to a minor league contract.",
+   "player": "Elvin Cepeda",
    "type": "Signed as Free Agent"
   },
   {
@@ -14,14 +14,8 @@
   },
   {
    "date": "2026-10-02",
-   "desc": "Chicago Cubs signed free agent RHP Maykoll Jaspe to a minor league contract.",
-   "player": "Maykoll Jaspe",
-   "type": "Signed as Free Agent"
-  },
-  {
-   "date": "2026-10-02",
-   "desc": "Chicago Cubs signed free agent RHP Elvin Cepeda to a minor league contract.",
-   "player": "Elvin Cepeda",
+   "desc": "Chicago Cubs signed free agent LHP Manuel Cordero to a minor league contract.",
+   "player": "Manuel Cordero",
    "type": "Signed as Free Agent"
   },
   {
@@ -32,14 +26,50 @@
   },
   {
    "date": "2026-10-02",
-   "desc": "Chicago Cubs signed free agent LHP Manuel Cordero to a minor league contract.",
-   "player": "Manuel Cordero",
+   "desc": "Chicago Cubs signed free agent RHP Maykoll Jaspe to a minor league contract.",
+   "player": "Maykoll Jaspe",
    "type": "Signed as Free Agent"
+  },
+  {
+   "date": "2026-10-02",
+   "desc": "Chicago Cubs signed free agent 2B Rodelvis Santiesteban to a minor league contract.",
+   "player": "Rodelvis Santiesteban",
+   "type": "Signed as Free Agent"
+  },
+  {
+   "date": "2026-10-01",
+   "desc": "Chicago Cubs activated CF Justin Dean.",
+   "player": "Justin Dean",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-10-01",
+   "desc": "Chicago Cubs activated RHP Gavin Hollowell.",
+   "player": "Gavin Hollowell",
+   "type": "Status Change"
   },
   {
    "date": "2026-10-01",
    "desc": "Chicago Cubs activated LHP Jordan Wicks.",
    "player": "Jordan Wicks",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-10-01",
+   "desc": "Chicago Cubs activated 2B James Triantos.",
+   "player": "James Triantos",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-10-01",
+   "desc": "Chicago Cubs activated 3B BJ Murray Jr..",
+   "player": "BJ Murray Jr.",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-10-01",
+   "desc": "Chicago Cubs activated LHP Caleb Thielbar.",
+   "player": "Caleb Thielbar",
    "type": "Status Change"
   },
   {
@@ -50,8 +80,20 @@
   },
   {
    "date": "2026-10-01",
-   "desc": "Chicago Cubs activated 3B BJ Murray Jr..",
-   "player": "BJ Murray Jr.",
+   "desc": "Chicago Cubs activated LHP Braxton Garrett.",
+   "player": "Braxton Garrett",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-10-01",
+   "desc": "Chicago Cubs activated DH Kevin Alc\u00e1ntara.",
+   "player": "Kevin Alc\u00e1ntara",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-10-01",
+   "desc": "Chicago Cubs activated RHP Edward Cabrera.",
+   "player": "Edward Cabrera",
    "type": "Status Change"
   },
   {
@@ -68,92 +110,14 @@
   },
   {
    "date": "2026-10-01",
-   "desc": "Chicago Cubs activated CF Justin Dean.",
-   "player": "Justin Dean",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-10-01",
-   "desc": "Chicago Cubs activated RHP Edward Cabrera.",
-   "player": "Edward Cabrera",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-10-01",
-   "desc": "Chicago Cubs activated DH Kevin Alc\u00e1ntara.",
-   "player": "Kevin Alc\u00e1ntara",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-10-01",
-   "desc": "Chicago Cubs activated RHP Tyler Ferguson.",
-   "player": "Tyler Ferguson",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-10-01",
-   "desc": "Chicago Cubs activated LHP Braxton Garrett.",
-   "player": "Braxton Garrett",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-10-01",
    "desc": "Chicago Cubs activated RHP Trent Thornton.",
    "player": "Trent Thornton",
    "type": "Status Change"
   },
   {
    "date": "2026-10-01",
-   "desc": "Chicago Cubs activated RHP Gavin Hollowell.",
-   "player": "Gavin Hollowell",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-10-01",
-   "desc": "Chicago Cubs activated LHP Caleb Thielbar.",
-   "player": "Caleb Thielbar",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-10-01",
-   "desc": "Chicago Cubs activated 2B James Triantos.",
-   "player": "James Triantos",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-09-29",
-   "desc": "3B BJ Murray Jr. roster status changed by Chicago Cubs.",
-   "player": "BJ Murray Jr.",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-09-29",
-   "desc": "LHP Jordan Wicks roster status changed by Chicago Cubs.",
-   "player": "Jordan Wicks",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-09-29",
-   "desc": "RHP Edward Cabrera roster status changed by Chicago Cubs.",
-   "player": "Edward Cabrera",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-09-29",
-   "desc": "CF Justin Dean roster status changed by Chicago Cubs.",
-   "player": "Justin Dean",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-09-29",
-   "desc": "RHP Julian Aguiar roster status changed by Chicago Cubs.",
-   "player": "Julian Aguiar",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-09-29",
-   "desc": "DH Kevin Alc\u00e1ntara roster status changed by Chicago Cubs.",
-   "player": "Kevin Alc\u00e1ntara",
+   "desc": "Chicago Cubs activated RHP Tyler Ferguson.",
+   "player": "Tyler Ferguson",
    "type": "Status Change"
   },
   {
@@ -164,8 +128,8 @@
   },
   {
    "date": "2026-09-29",
-   "desc": "2B James Triantos roster status changed by Chicago Cubs.",
-   "player": "James Triantos",
+   "desc": "RHP Trent Thornton roster status changed by Chicago Cubs.",
+   "player": "Trent Thornton",
    "type": "Status Change"
   },
   {
@@ -176,8 +140,14 @@
   },
   {
    "date": "2026-09-29",
-   "desc": "RHP Ethan Roberts roster status changed by Chicago Cubs.",
-   "player": "Ethan Roberts",
+   "desc": "LHP Braxton Garrett roster status changed by Chicago Cubs.",
+   "player": "Braxton Garrett",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-09-29",
+   "desc": "3B BJ Murray Jr. roster status changed by Chicago Cubs.",
+   "player": "BJ Murray Jr.",
    "type": "Status Change"
   },
   {
@@ -188,8 +158,20 @@
   },
   {
    "date": "2026-09-29",
-   "desc": "LHP Braxton Garrett roster status changed by Chicago Cubs.",
-   "player": "Braxton Garrett",
+   "desc": "CF Justin Dean roster status changed by Chicago Cubs.",
+   "player": "Justin Dean",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-09-29",
+   "desc": "2B James Triantos roster status changed by Chicago Cubs.",
+   "player": "James Triantos",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-09-29",
+   "desc": "RHP Julian Aguiar roster status changed by Chicago Cubs.",
+   "player": "Julian Aguiar",
    "type": "Status Change"
   },
   {
@@ -200,8 +182,26 @@
   },
   {
    "date": "2026-09-29",
-   "desc": "RHP Trent Thornton roster status changed by Chicago Cubs.",
-   "player": "Trent Thornton",
+   "desc": "LHP Jordan Wicks roster status changed by Chicago Cubs.",
+   "player": "Jordan Wicks",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-09-29",
+   "desc": "DH Kevin Alc\u00e1ntara roster status changed by Chicago Cubs.",
+   "player": "Kevin Alc\u00e1ntara",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-09-29",
+   "desc": "RHP Edward Cabrera roster status changed by Chicago Cubs.",
+   "player": "Edward Cabrera",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-09-29",
+   "desc": "RHP Ethan Roberts roster status changed by Chicago Cubs.",
+   "player": "Ethan Roberts",
    "type": "Status Change"
   },
   {
@@ -224,14 +224,8 @@
   },
   {
    "date": "2026-09-28",
-   "desc": "Chicago Cubs recalled 3B BJ Murray Jr. from Iowa Cubs.",
-   "player": "BJ Murray Jr.",
-   "type": "Recalled"
-  },
-  {
-   "date": "2026-09-28",
-   "desc": "Chicago Cubs recalled 2B James Triantos from Iowa Cubs.",
-   "player": "James Triantos",
+   "desc": "Chicago Cubs recalled RHP Jayden Murray from Iowa Cubs.",
+   "player": "Jayden Murray",
    "type": "Recalled"
   },
   {
@@ -260,8 +254,14 @@
   },
   {
    "date": "2026-09-28",
-   "desc": "Chicago Cubs recalled RHP Jayden Murray from Iowa Cubs.",
-   "player": "Jayden Murray",
+   "desc": "Chicago Cubs recalled 2B James Triantos from Iowa Cubs.",
+   "player": "James Triantos",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-09-28",
+   "desc": "Chicago Cubs recalled RHP Julian Aguiar from ACL Cubs.",
+   "player": "Julian Aguiar",
    "type": "Recalled"
   },
   {
@@ -278,8 +278,8 @@
   },
   {
    "date": "2026-09-28",
-   "desc": "Chicago Cubs recalled RHP Julian Aguiar from ACL Cubs.",
-   "player": "Julian Aguiar",
+   "desc": "Chicago Cubs recalled 3B BJ Murray Jr. from Iowa Cubs.",
+   "player": "BJ Murray Jr.",
    "type": "Recalled"
   },
   {
@@ -302,12 +302,6 @@
   },
   {
    "date": "2026-09-26",
-   "desc": "Chicago Cubs claimed RHP Julian Aguiar off waivers from Cincinnati Reds.",
-   "player": "Julian Aguiar",
-   "type": "Claimed Off Waivers"
-  },
-  {
-   "date": "2026-09-26",
    "desc": "Chicago Cubs optioned RHP Julian Aguiar to ACL Cubs.",
    "player": "Julian Aguiar",
    "type": "Optioned"
@@ -320,14 +314,14 @@
   },
   {
    "date": "2026-09-25",
-   "desc": "Chicago Cubs activated RHP Gavin Hollowell from the 15-day injured list.",
-   "player": "Gavin Hollowell",
+   "desc": "RHP Edward Cabrera roster status changed by Chicago Cubs.",
+   "player": "Edward Cabrera",
    "type": "Status Change"
   },
   {
    "date": "2026-09-25",
-   "desc": "RHP Edward Cabrera roster status changed by Chicago Cubs.",
-   "player": "Edward Cabrera",
+   "desc": "Chicago Cubs activated RHP Gavin Hollowell from the 15-day injured list.",
+   "player": "Gavin Hollowell",
    "type": "Status Change"
   },
   {
@@ -470,6 +464,12 @@
   },
   {
    "date": "2026-08-21",
+   "desc": "Chicago Cubs activated 3B Gabriel Arias.",
+   "player": "Gabriel Arias",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-08-21",
    "desc": "Chicago Cubs activated RHP Daniel Palencia from the 60-day injured list.",
    "player": "Daniel Palencia",
    "type": "Status Change"
@@ -482,21 +482,9 @@
   },
   {
    "date": "2026-08-21",
-   "desc": "Chicago Cubs activated 3B Gabriel Arias.",
-   "player": "Gabriel Arias",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-08-21",
    "desc": "Chicago Cubs optioned RHP Javier Assad to Iowa Cubs.",
    "player": "Javier Assad",
    "type": "Optioned"
-  },
-  {
-   "date": "2026-08-19",
-   "desc": "Chicago Cubs transferred RHP Phil Maton from the 15-day injured list to the 60-day injured list. Right knee tendinitis.",
-   "player": "Phil Maton",
-   "type": "Status Change"
   },
   {
    "date": "2026-08-19",
@@ -512,9 +500,9 @@
   },
   {
    "date": "2026-08-19",
-   "desc": "Chicago Cubs claimed 3B Gabriel Arias off waivers from New York Mets.",
-   "player": "Gabriel Arias",
-   "type": "Claimed Off Waivers"
+   "desc": "Chicago Cubs transferred RHP Phil Maton from the 15-day injured list to the 60-day injured list. Right knee tendinitis.",
+   "player": "Phil Maton",
+   "type": "Status Change"
   },
   {
    "date": "2026-08-19",
@@ -530,27 +518,15 @@
   },
   {
    "date": "2026-08-17",
-   "desc": "Chicago Cubs placed RHP Edward Cabrera on the 15-day injured list. Right middle finger blister.",
-   "player": "Edward Cabrera",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-08-17",
    "desc": "Chicago Cubs placed RHP Daniel Palencia on the 60-day injured list. Right elbow inflammation.",
    "player": "Daniel Palencia",
    "type": "Status Change"
   },
   {
    "date": "2026-08-17",
-   "desc": "Chicago Cubs recalled OF Kevin Alc\u00e1ntara from Iowa Cubs.",
-   "player": "Kevin Alc\u00e1ntara",
-   "type": "Recalled"
-  },
-  {
-   "date": "2026-08-17",
-   "desc": "Chicago Cubs selected the contract of 2B Owen Miller from Iowa Cubs.",
-   "player": "Owen Miller",
-   "type": "Selected"
+   "desc": "Chicago Cubs placed RHP Edward Cabrera on the 15-day injured list. Right middle finger blister.",
+   "player": "Edward Cabrera",
+   "type": "Status Change"
   },
   {
    "date": "2026-08-17",
@@ -560,8 +536,20 @@
   },
   {
    "date": "2026-08-17",
+   "desc": "Chicago Cubs selected the contract of 2B Owen Miller from Iowa Cubs.",
+   "player": "Owen Miller",
+   "type": "Selected"
+  },
+  {
+   "date": "2026-08-17",
    "desc": "Chicago Cubs recalled RHP Javier Assad from Iowa Cubs.",
    "player": "Javier Assad",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-08-17",
+   "desc": "Chicago Cubs recalled OF Kevin Alc\u00e1ntara from Iowa Cubs.",
+   "player": "Kevin Alc\u00e1ntara",
    "type": "Recalled"
   },
   {
@@ -602,14 +590,14 @@
   },
   {
    "date": "2026-08-11",
-   "desc": "Chicago Cubs sent RHP Daniel Palencia on a rehab assignment to Knoxville Smokies.",
-   "player": "Daniel Palencia",
+   "desc": "Chicago Cubs sent RHP Edward Cabrera on a rehab assignment to Knoxville Smokies.",
+   "player": "Edward Cabrera",
    "type": "Assigned"
   },
   {
    "date": "2026-08-11",
-   "desc": "Chicago Cubs sent RHP Edward Cabrera on a rehab assignment to Knoxville Smokies.",
-   "player": "Edward Cabrera",
+   "desc": "Chicago Cubs sent RHP Daniel Palencia on a rehab assignment to Knoxville Smokies.",
+   "player": "Daniel Palencia",
    "type": "Assigned"
   },
   {
@@ -650,12 +638,6 @@
   },
   {
    "date": "2026-08-06",
-   "desc": "Kansas City Royals claimed LHP Luke Little off waivers from Chicago Cubs.",
-   "player": "Luke Little",
-   "type": "Claimed Off Waivers"
-  },
-  {
-   "date": "2026-08-06",
    "desc": "Chicago Cubs optioned RHP Tyler Ferguson to Iowa Cubs.",
    "player": "Tyler Ferguson",
    "type": "Optioned"
@@ -692,14 +674,14 @@
   },
   {
    "date": "2026-08-04",
-   "desc": "Chicago Cubs activated RHP Ryan Zeferjahn.",
-   "player": "Ryan Zeferjahn",
+   "desc": "Chicago Cubs activated LF Tyrone Taylor.",
+   "player": "Tyrone Taylor",
    "type": "Status Change"
   },
   {
    "date": "2026-08-04",
-   "desc": "Chicago Cubs activated LF Tyrone Taylor.",
-   "player": "Tyrone Taylor",
+   "desc": "Chicago Cubs activated RHP Ryan Zeferjahn.",
+   "player": "Ryan Zeferjahn",
    "type": "Status Change"
   },
   {
@@ -713,36 +695,6 @@
    "desc": "Chicago Cubs optioned DH Kevin Alc\u00e1ntara to Iowa Cubs.",
    "player": "Kevin Alc\u00e1ntara",
    "type": "Optioned"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Los Angeles Angels traded RHP Ryan Zeferjahn to Chicago Cubs for C Mois\u00e9s Ballesteros and RHP Mason McGwire.",
-   "player": "Ryan Zeferjahn",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Los Angeles Angels traded RHP Ryan Zeferjahn to Chicago Cubs for C Mois\u00e9s Ballesteros and RHP Mason McGwire.",
-   "player": "Mois\u00e9s Ballesteros",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Los Angeles Angels traded RHP Ryan Zeferjahn to Chicago Cubs for C Mois\u00e9s Ballesteros and RHP Mason McGwire.",
-   "player": "Mason McGwire",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Chicago Cubs designated LHP Luke Little for assignment.",
-   "player": "Luke Little",
-   "type": "Designated for Assignment"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "LF Tyrone Taylor roster status changed by Chicago Cubs.",
-   "player": "Tyrone Taylor",
-   "type": "Status Change"
   },
   {
    "date": "2026-08-03",
@@ -764,27 +716,15 @@
   },
   {
    "date": "2026-08-03",
-   "desc": "Chicago Cubs recalled DH Kevin Alc\u00e1ntara from Iowa Cubs.",
-   "player": "Kevin Alc\u00e1ntara",
-   "type": "Recalled"
+   "desc": "Chicago Cubs designated LHP Luke Little for assignment.",
+   "player": "Luke Little",
+   "type": "Designated for Assignment"
   },
   {
    "date": "2026-08-03",
-   "desc": "Miami Marlins traded LHP Braxton Garrett to Chicago Cubs for 3B Jonathon Long and RHP Jace Beck.",
-   "player": "Jonathon Long",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Miami Marlins traded LHP Braxton Garrett to Chicago Cubs for 3B Jonathon Long and RHP Jace Beck.",
-   "player": "Braxton Garrett",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Miami Marlins traded LHP Braxton Garrett to Chicago Cubs for 3B Jonathon Long and RHP Jace Beck.",
-   "player": "Jace Beck",
-   "type": "Trade"
+   "desc": "LF Tyrone Taylor roster status changed by Chicago Cubs.",
+   "player": "Tyrone Taylor",
+   "type": "Status Change"
   },
   {
    "date": "2026-08-03",
@@ -794,20 +734,8 @@
   },
   {
    "date": "2026-08-03",
-   "desc": "Chicago Cubs optioned CF Justin Dean to Iowa Cubs.",
-   "player": "Justin Dean",
-   "type": "Optioned"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Chicago Cubs traded SS Jefferson Rojas to New York Mets for RHP Clay Holmes and LF Tyrone Taylor.",
-   "player": "Clay Holmes",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Chicago Cubs traded SS Jefferson Rojas to New York Mets for RHP Clay Holmes and LF Tyrone Taylor.",
-   "player": "Tyrone Taylor",
+   "desc": "Los Angeles Angels traded RHP Ryan Zeferjahn to Chicago Cubs for C Mois\u00e9s Ballesteros and RHP Mason McGwire.",
+   "player": "Ryan Zeferjahn",
    "type": "Trade"
   },
   {
@@ -824,26 +752,8 @@
   },
   {
    "date": "2026-08-03",
-   "desc": "Los Angeles Angels traded RHP Ryan Zeferjahn to Chicago Cubs for C Mois\u00e9s Ballesteros and RHP Mason McGwire.",
-   "player": "Ryan Zeferjahn",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Chicago Cubs traded SS Jefferson Rojas to New York Mets for RHP Clay Holmes and LF Tyrone Taylor.",
-   "player": "Jefferson Rojas",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Chicago Cubs traded SS Jefferson Rojas to New York Mets for RHP Clay Holmes and LF Tyrone Taylor.",
-   "player": "Tyrone Taylor",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-03",
-   "desc": "Chicago Cubs traded SS Jefferson Rojas to New York Mets for RHP Clay Holmes and LF Tyrone Taylor.",
-   "player": "Clay Holmes",
+   "desc": "Miami Marlins traded LHP Braxton Garrett to Chicago Cubs for 3B Jonathon Long and RHP Jace Beck.",
+   "player": "Jace Beck",
    "type": "Trade"
   },
   {
@@ -860,8 +770,26 @@
   },
   {
    "date": "2026-08-03",
-   "desc": "Miami Marlins traded LHP Braxton Garrett to Chicago Cubs for 3B Jonathon Long and RHP Jace Beck.",
-   "player": "Jace Beck",
+   "desc": "Chicago Cubs recalled DH Kevin Alc\u00e1ntara from Iowa Cubs.",
+   "player": "Kevin Alc\u00e1ntara",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Chicago Cubs optioned CF Justin Dean to Iowa Cubs.",
+   "player": "Justin Dean",
+   "type": "Optioned"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Chicago Cubs traded SS Jefferson Rojas to New York Mets for RHP Clay Holmes and LF Tyrone Taylor.",
+   "player": "Tyrone Taylor",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-03",
+   "desc": "Chicago Cubs traded SS Jefferson Rojas to New York Mets for RHP Clay Holmes and LF Tyrone Taylor.",
+   "player": "Clay Holmes",
    "type": "Trade"
   },
   {
@@ -872,6 +800,12 @@
   },
   {
    "date": "2026-08-02",
+   "desc": "Chicago Cubs traded RHP Jameson Taillon and cash to Toronto Blue Jays for Player To Be Named Later.",
+   "player": null,
+   "type": "Trade"
+  },
+  {
+   "date": "2026-08-02",
    "desc": "Toronto Blue Jays traded RHP Kevin Gausman to Chicago Cubs for CF Brett Bateman and SS Ty Southisene.",
    "player": "Kevin Gausman",
    "type": "Trade"
@@ -880,48 +814,6 @@
    "date": "2026-08-02",
    "desc": "Toronto Blue Jays traded RHP Kevin Gausman to Chicago Cubs for CF Brett Bateman and SS Ty Southisene.",
    "player": "Ty Southisene",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-02",
-   "desc": "Chicago Cubs traded RHP Jameson Taillon and cash to Toronto Blue Jays for Player To Be Named Later.",
-   "player": null,
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-02",
-   "desc": "Chicago Cubs traded RHP Jameson Taillon and cash to Toronto Blue Jays for Player To Be Named Later.",
-   "player": null,
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-02",
-   "desc": "Chicago Cubs traded RHP Jameson Taillon and cash to Toronto Blue Jays for Player To Be Named Later.",
-   "player": "Jameson Taillon",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-02",
-   "desc": "Toronto Blue Jays traded RHP Kevin Gausman to Chicago Cubs for CF Brett Bateman and SS Ty Southisene.",
-   "player": "Brett Bateman",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-02",
-   "desc": "Chicago Cubs traded RHP Jameson Taillon and cash to Toronto Blue Jays for Player To Be Named Later.",
-   "player": null,
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-02",
-   "desc": "Toronto Blue Jays traded RHP Kevin Gausman to Chicago Cubs for CF Brett Bateman and SS Ty Southisene.",
-   "player": "Ty Southisene",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-08-02",
-   "desc": "Toronto Blue Jays traded RHP Kevin Gausman to Chicago Cubs for CF Brett Bateman and SS Ty Southisene.",
-   "player": "Kevin Gausman",
    "type": "Trade"
   },
   {
@@ -968,15 +860,15 @@
   },
   {
    "date": "2026-07-29",
-   "desc": "Chicago Cubs designated RHP Andrew Wantz for assignment.",
-   "player": "Andrew Wantz",
-   "type": "Designated for Assignment"
-  },
-  {
-   "date": "2026-07-29",
    "desc": "Chicago Cubs sent LHP Hoby Milner on a rehab assignment to Iowa Cubs.",
    "player": "Hoby Milner",
    "type": "Assigned"
+  },
+  {
+   "date": "2026-07-29",
+   "desc": "Chicago Cubs designated RHP Andrew Wantz for assignment.",
+   "player": "Andrew Wantz",
+   "type": "Designated for Assignment"
   },
   {
    "date": "2026-07-29",
@@ -992,20 +884,14 @@
   },
   {
    "date": "2026-07-27",
-   "desc": "Chicago Cubs signed RHP Ariston Veasey.",
-   "player": "Ariston Veasey",
+   "desc": "Chicago Cubs signed RHP Luke Guth.",
+   "player": "Luke Guth",
    "type": "Signed"
   },
   {
    "date": "2026-07-27",
-   "desc": "Chicago Cubs signed free agent C Jhoander Irigoyen to a minor league contract.",
-   "player": "Jhoander Irigoyen",
-   "type": "Signed as Free Agent"
-  },
-  {
-   "date": "2026-07-27",
-   "desc": "Chicago Cubs signed free agent C Colin Hynek to a minor league contract.",
-   "player": "Colin Hynek",
+   "desc": "Chicago Cubs signed free agent 1B Blake Bevis to a minor league contract.",
+   "player": "Blake Bevis",
    "type": "Signed as Free Agent"
   },
   {
@@ -1022,20 +908,8 @@
   },
   {
    "date": "2026-07-27",
-   "desc": "Chicago Cubs signed RHP Luke Guth.",
-   "player": "Luke Guth",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-27",
-   "desc": "Chicago Cubs signed RHP Luke McGrath.",
-   "player": "Luke McGrath",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-27",
-   "desc": "Chicago Cubs signed free agent 1B Blake Bevis to a minor league contract.",
-   "player": "Blake Bevis",
+   "desc": "Chicago Cubs signed free agent C Colin Hynek to a minor league contract.",
+   "player": "Colin Hynek",
    "type": "Signed as Free Agent"
   },
   {
@@ -1046,32 +920,38 @@
   },
   {
    "date": "2026-07-27",
+   "desc": "Chicago Cubs signed RHP Luke McGrath.",
+   "player": "Luke McGrath",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-27",
+   "desc": "Chicago Cubs signed free agent C Jhoander Irigoyen to a minor league contract.",
+   "player": "Jhoander Irigoyen",
+   "type": "Signed as Free Agent"
+  },
+  {
+   "date": "2026-07-27",
+   "desc": "Chicago Cubs signed RHP Ariston Veasey.",
+   "player": "Ariston Veasey",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-27",
    "desc": "Chicago Cubs selected the contract of RHP Andrew Wantz from Iowa Cubs.",
    "player": "Andrew Wantz",
    "type": "Selected"
   },
   {
    "date": "2026-07-24",
-   "desc": "Chicago Cubs signed free agent RHP John Alkire II to a minor league contract.",
-   "player": "John Alkire II",
-   "type": "Signed as Free Agent"
-  },
-  {
-   "date": "2026-07-24",
-   "desc": "Chicago Cubs signed free agent OF Grant Gray to a minor league contract.",
-   "player": "Grant Gray",
-   "type": "Signed as Free Agent"
-  },
-  {
-   "date": "2026-07-24",
-   "desc": "Chicago Cubs signed free agent OF Harrison Feinberg to a minor league contract.",
-   "player": "Harrison Feinberg",
-   "type": "Signed as Free Agent"
-  },
-  {
-   "date": "2026-07-24",
    "desc": "Chicago Cubs signed free agent 2B Dom Krupinski to a minor league contract.",
    "player": "Dom Krupinski",
+   "type": "Signed as Free Agent"
+  },
+  {
+   "date": "2026-07-24",
+   "desc": "Chicago Cubs signed free agent RHP John Alkire II to a minor league contract.",
+   "player": "John Alkire II",
    "type": "Signed as Free Agent"
   },
   {
@@ -1082,12 +962,30 @@
   },
   {
    "date": "2026-07-24",
+   "desc": "Chicago Cubs signed free agent OF Harrison Feinberg to a minor league contract.",
+   "player": "Harrison Feinberg",
+   "type": "Signed as Free Agent"
+  },
+  {
+   "date": "2026-07-24",
+   "desc": "Chicago Cubs signed free agent OF Grant Gray to a minor league contract.",
+   "player": "Grant Gray",
+   "type": "Signed as Free Agent"
+  },
+  {
+   "date": "2026-07-24",
+   "desc": "Chicago Cubs optioned DH Kevin Alc\u00e1ntara to Iowa Cubs.",
+   "player": "Kevin Alc\u00e1ntara",
+   "type": "Optioned"
+  },
+  {
+   "date": "2026-07-24",
    "desc": "Chicago Cubs recalled 2B James Triantos from Iowa Cubs.",
    "player": "James Triantos",
    "type": "Recalled"
   },
   {
-   "date": "2026-07-24",
+   "date": "2026-07-23",
    "desc": "Chicago Cubs optioned DH Kevin Alc\u00e1ntara to Iowa Cubs.",
    "player": "Kevin Alc\u00e1ntara",
    "type": "Optioned"
@@ -1097,12 +995,6 @@
    "desc": "Chicago Cubs sent LHP Drew Pomeranz outright to Iowa Cubs.",
    "player": "Drew Pomeranz",
    "type": "Outrighted"
-  },
-  {
-   "date": "2026-07-23",
-   "desc": "Chicago Cubs optioned DH Kevin Alc\u00e1ntara to Iowa Cubs.",
-   "player": "Kevin Alc\u00e1ntara",
-   "type": "Optioned"
   },
   {
    "date": "2026-07-21",
@@ -1171,27 +1063,15 @@
    "type": "Trade"
   },
   {
-   "date": "2026-07-18",
-   "desc": "Athletics traded RHP Aaron Civale to Chicago Cubs for RHP Aiden Moffett.",
-   "player": "Aaron Civale",
-   "type": "Trade"
-  },
-  {
-   "date": "2026-07-18",
-   "desc": "Athletics traded RHP Aaron Civale to Chicago Cubs for RHP Aiden Moffett.",
-   "player": "Aiden Moffett",
-   "type": "Trade"
-  },
-  {
    "date": "2026-07-17",
-   "desc": "Chicago Cubs signed RHP Chase Meyer.",
-   "player": "Chase Meyer",
+   "desc": "Chicago Cubs signed LHP Cole Tryba.",
+   "player": "Cole Tryba",
    "type": "Signed"
   },
   {
    "date": "2026-07-17",
-   "desc": "Chicago Cubs signed RHP Cade Townsend.",
-   "player": "Cade Townsend",
+   "desc": "Chicago Cubs signed RHP Lance Williams.",
+   "player": "Lance Williams",
    "type": "Signed"
   },
   {
@@ -1202,56 +1082,14 @@
   },
   {
    "date": "2026-07-17",
-   "desc": "Chicago Cubs signed RHP Carson Jasa.",
-   "player": "Carson Jasa",
+   "desc": "Chicago Cubs signed RHP Dylan Marionneaux.",
+   "player": "Dylan Marionneaux",
    "type": "Signed"
   },
   {
    "date": "2026-07-17",
-   "desc": "Chicago Cubs signed LHP Cole Tryba.",
-   "player": "Cole Tryba",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-17",
-   "desc": "Chicago Cubs signed 1B Myles Bailey.",
-   "player": "Myles Bailey",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-17",
-   "desc": "Chicago Cubs signed RHP Isaac Morton.",
-   "player": "Isaac Morton",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-17",
-   "desc": "Chicago Cubs signed RHP Griffin Naess.",
-   "player": "Griffin Naess",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-17",
-   "desc": "Chicago Cubs signed RHP Luke Alwood.",
-   "player": "Luke Alwood",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-17",
-   "desc": "Chicago Cubs signed RHP Ryan Marton.",
-   "player": "Ryan Marton",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-17",
-   "desc": "Chicago Cubs signed LHP Brandon Arvidson.",
-   "player": "Brandon Arvidson",
-   "type": "Signed"
-  },
-  {
-   "date": "2026-07-17",
-   "desc": "Chicago Cubs signed RHP Ashton Pocol.",
-   "player": "Ashton Pocol",
+   "desc": "Chicago Cubs signed RHP Chase Meyer.",
+   "player": "Chase Meyer",
    "type": "Signed"
   },
   {
@@ -1262,20 +1100,62 @@
   },
   {
    "date": "2026-07-17",
+   "desc": "Chicago Cubs signed RHP Isaac Morton.",
+   "player": "Isaac Morton",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-17",
+   "desc": "Chicago Cubs signed RHP Luke Alwood.",
+   "player": "Luke Alwood",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-17",
+   "desc": "Chicago Cubs signed RHP Carson Jasa.",
+   "player": "Carson Jasa",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-17",
+   "desc": "Chicago Cubs signed RHP Ashton Pocol.",
+   "player": "Ashton Pocol",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-17",
    "desc": "Chicago Cubs signed RHP Dylan Blomker.",
    "player": "Dylan Blomker",
    "type": "Signed"
   },
   {
    "date": "2026-07-17",
-   "desc": "Chicago Cubs signed RHP Dylan Marionneaux.",
-   "player": "Dylan Marionneaux",
+   "desc": "Chicago Cubs signed RHP Ryan Marton.",
+   "player": "Ryan Marton",
    "type": "Signed"
   },
   {
    "date": "2026-07-17",
-   "desc": "Chicago Cubs signed RHP Lance Williams.",
-   "player": "Lance Williams",
+   "desc": "Chicago Cubs signed RHP Cade Townsend.",
+   "player": "Cade Townsend",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-17",
+   "desc": "Chicago Cubs signed LHP Brandon Arvidson.",
+   "player": "Brandon Arvidson",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-17",
+   "desc": "Chicago Cubs signed 1B Myles Bailey.",
+   "player": "Myles Bailey",
+   "type": "Signed"
+  },
+  {
+   "date": "2026-07-17",
+   "desc": "Chicago Cubs signed RHP Griffin Naess.",
+   "player": "Griffin Naess",
    "type": "Signed"
   },
   {
@@ -1304,12 +1184,6 @@
   },
   {
    "date": "2026-07-11",
-   "desc": "Chicago Cubs activated RHP Phil Maton from the 15-day injured list.",
-   "player": "Phil Maton",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-07-11",
    "desc": "Chicago Cubs sent RHP Jameson Taillon on a rehab assignment to Iowa Cubs.",
    "player": "Jameson Taillon",
    "type": "Assigned"
@@ -1319,6 +1193,12 @@
    "desc": "Chicago Cubs designated RHP Jake Woodford for assignment.",
    "player": "Jake Woodford",
    "type": "Designated for Assignment"
+  },
+  {
+   "date": "2026-07-11",
+   "desc": "Chicago Cubs activated RHP Phil Maton from the 15-day injured list.",
+   "player": "Phil Maton",
+   "type": "Status Change"
   },
   {
    "date": "2026-07-08",
@@ -1364,15 +1244,15 @@
   },
   {
    "date": "2026-07-04",
-   "desc": "Chicago Cubs signed free agent RHP Jake Woodford.",
-   "player": "Jake Woodford",
-   "type": "Signed as Free Agent"
-  },
-  {
-   "date": "2026-07-04",
    "desc": "Chicago Cubs designated RHP Bryse Wilson for assignment.",
    "player": "Bryse Wilson",
    "type": "Designated for Assignment"
+  },
+  {
+   "date": "2026-07-04",
+   "desc": "Chicago Cubs signed free agent RHP Jake Woodford.",
+   "player": "Jake Woodford",
+   "type": "Signed as Free Agent"
   },
   {
    "date": "2026-07-03",
@@ -1424,21 +1304,15 @@
   },
   {
    "date": "2026-06-29",
-   "desc": "Chicago Cubs placed RHP Ethan Roberts on the 15-day injured list. right forearm inflammation.",
-   "player": "Ethan Roberts",
-   "type": "Status Change"
-  },
-  {
-   "date": "2026-06-29",
    "desc": "Chicago Cubs placed RF Matt Shaw on the 10-day injured list. left-hand sprain.",
    "player": "Matt Shaw",
    "type": "Status Change"
   },
   {
    "date": "2026-06-29",
-   "desc": "Chicago Cubs recalled RHP Gavin Hollowell from Iowa Cubs.",
-   "player": "Gavin Hollowell",
-   "type": "Recalled"
+   "desc": "Chicago Cubs placed RHP Ethan Roberts on the 15-day injured list. right forearm inflammation.",
+   "player": "Ethan Roberts",
+   "type": "Status Change"
   },
   {
    "date": "2026-06-29",
@@ -1447,10 +1321,10 @@
    "type": "Recalled"
   },
   {
-   "date": "2026-06-28",
-   "desc": "Baltimore Orioles claimed RHP Yosver Zulueta off waivers from Chicago Cubs.",
-   "player": "Yosver Zulueta",
-   "type": "Claimed Off Waivers"
+   "date": "2026-06-29",
+   "desc": "Chicago Cubs recalled RHP Gavin Hollowell from Iowa Cubs.",
+   "player": "Gavin Hollowell",
+   "type": "Recalled"
   },
   {
    "date": "2026-06-28",
@@ -1460,15 +1334,15 @@
   },
   {
    "date": "2026-06-28",
-   "desc": "Baltimore Orioles claimed RHP Yosver Zulueta off waivers from Chicago Cubs.",
-   "player": "Yosver Zulueta",
-   "type": "Claimed Off Waivers"
-  },
-  {
-   "date": "2026-06-28",
    "desc": "Chicago Cubs recalled LHP Jordan Wicks from Iowa Cubs.",
    "player": "Jordan Wicks",
    "type": "Recalled"
+  },
+  {
+   "date": "2026-06-28",
+   "desc": "Baltimore Orioles claimed RHP Yosver Zulueta off waivers from Chicago Cubs.",
+   "player": "Yosver Zulueta",
+   "type": "Claimed Off Waivers"
   },
   {
    "date": "2026-06-27",
@@ -1478,15 +1352,21 @@
   },
   {
    "date": "2026-06-27",
+   "desc": "Chicago Cubs recalled RHP Tyler Ferguson from Iowa Cubs.",
+   "player": "Tyler Ferguson",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-06-27",
    "desc": "Chicago Cubs optioned RHP Jayden Murray to Iowa Cubs.",
    "player": "Jayden Murray",
    "type": "Optioned"
   },
   {
-   "date": "2026-06-27",
-   "desc": "Chicago Cubs recalled RHP Tyler Ferguson from Iowa Cubs.",
-   "player": "Tyler Ferguson",
-   "type": "Recalled"
+   "date": "2026-06-26",
+   "desc": "Chicago Cubs activated LHP David Peterson.",
+   "player": "David Peterson",
+   "type": "Status Change"
   },
   {
    "date": "2026-06-26",
@@ -1495,11 +1375,131 @@
    "type": "Status Change"
   },
   {
-   "date": "2026-06-26",
-   "desc": "Chicago Cubs activated LHP David Peterson.",
-   "player": "David Peterson",
+   "date": "2026-06-25",
+   "desc": "Chicago Cubs designated RHP Yosver Zulueta for assignment.",
+   "player": "Yosver Zulueta",
+   "type": "Designated for Assignment"
+  },
+  {
+   "date": "2026-06-25",
+   "desc": "Chicago Cubs activated LHP Matthew Boyd from the 15-day injured list.",
+   "player": "Matthew Boyd",
    "type": "Status Change"
+  },
+  {
+   "date": "2026-06-25",
+   "desc": "New York Mets traded LHP David Peterson to Chicago Cubs for 3B Cole Mathis.",
+   "player": "Cole Mathis",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-06-25",
+   "desc": "Chicago Cubs optioned RHP Gavin Hollowell to Iowa Cubs.",
+   "player": "Gavin Hollowell",
+   "type": "Optioned"
+  },
+  {
+   "date": "2026-06-25",
+   "desc": "Chicago Cubs optioned RHP Tyler Ferguson to Iowa Cubs.",
+   "player": "Tyler Ferguson",
+   "type": "Optioned"
+  },
+  {
+   "date": "2026-06-25",
+   "desc": "New York Mets traded LHP David Peterson to Chicago Cubs for 3B Cole Mathis.",
+   "player": "David Peterson",
+   "type": "Trade"
+  },
+  {
+   "date": "2026-06-24",
+   "desc": "Chicago Cubs designated RHP Christian Roa for assignment.",
+   "player": "Christian Roa",
+   "type": "Designated for Assignment"
+  },
+  {
+   "date": "2026-06-24",
+   "desc": "Chicago Cubs placed RHP Ben Brown on the 15-day injured list retroactive to June 21, 2026. Neck strain.",
+   "player": "Ben Brown",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-06-24",
+   "desc": "Chicago Cubs designated RHP Eduarniel N\u00fa\u00f1ez for assignment.",
+   "player": "Eduarniel N\u00fa\u00f1ez",
+   "type": "Designated for Assignment"
+  },
+  {
+   "date": "2026-06-24",
+   "desc": "Chicago Cubs placed RHP Edward Cabrera on the 15-day injured list. Left hamstring strain.",
+   "player": "Edward Cabrera",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-06-24",
+   "desc": "Chicago Cubs sent LHP Luis Peralta outright to Iowa Cubs.",
+   "player": "Luis Peralta",
+   "type": "Outrighted"
+  },
+  {
+   "date": "2026-06-24",
+   "desc": "Chicago Cubs claimed RHP Bryse Wilson off waivers from Philadelphia Phillies.",
+   "player": "Bryse Wilson",
+   "type": "Claimed Off Waivers"
+  },
+  {
+   "date": "2026-06-24",
+   "desc": "Chicago Cubs recalled RHP Gavin Hollowell from Iowa Cubs.",
+   "player": "Gavin Hollowell",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-06-24",
+   "desc": "Chicago Cubs recalled RHP Tyler Ferguson from Iowa Cubs.",
+   "player": "Tyler Ferguson",
+   "type": "Recalled"
+  },
+  {
+   "date": "2026-06-24",
+   "desc": "Chicago Cubs selected the contract of RHP Vince Velasquez from Iowa Cubs.",
+   "player": "Vince Velasquez",
+   "type": "Selected"
+  },
+  {
+   "date": "2026-06-23",
+   "desc": "Chicago Cubs activated RHP Jayden Murray.",
+   "player": "Jayden Murray",
+   "type": "Status Change"
+  },
+  {
+   "date": "2026-06-23",
+   "desc": "Chicago Cubs optioned RHP Gavin Hollowell to Iowa Cubs.",
+   "player": "Gavin Hollowell",
+   "type": "Optioned"
+  },
+  {
+   "date": "2026-06-22",
+   "desc": "Chicago Cubs signed free agent LHP Drew Pomeranz to a minor league contract.",
+   "player": "Drew Pomeranz",
+   "type": "Signed as Free Agent"
+  },
+  {
+   "date": "2026-06-22",
+   "desc": "Chicago Cubs signed free agent RHP Jhon Cabral to a minor league contract.",
+   "player": "Jhon Cabral",
+   "type": "Signed as Free Agent"
+  },
+  {
+   "date": "2026-06-20",
+   "desc": "Chicago Cubs designated LHP Luis Peralta for assignment.",
+   "player": "Luis Peralta",
+   "type": "Designated for Assignment"
+  },
+  {
+   "date": "2026-06-20",
+   "desc": "Chicago Cubs sent LHP Matthew Boyd on a rehab assignment to South Bend Cubs.",
+   "player": "Matthew Boyd",
+   "type": "Assigned"
   }
  ],
- "updated": "2026-10-13T14:19:02-04:00"
+ "updated": "2026-10-13T21:59:10-04:00"
 }

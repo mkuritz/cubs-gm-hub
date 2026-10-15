@@ -2,17 +2,7 @@
  "data": {
   "items": [
    {
-    "date": "2026-10-14T07:19-04:00",
-    "kind": "news",
-    "players": [],
-    "source": "MLB.com",
-    "summary": "",
-    "tags": [],
-    "title": "These players stood out in Cubs\u2019 farm system in \u201826",
-    "url": "https://www.mlb.com/cubs/news/cubs-prospects-who-stood-out-in-2026"
-   },
-   {
-    "date": "2026-10-14T00:34-04:00",
+    "date": "2026-10-14T19:48-04:00",
     "kind": "news",
     "players": [],
     "source": "MLB.com",
@@ -22,6 +12,36 @@
     ],
     "title": "Watch Cubs prospects in Arizona Fall League action",
     "url": "https://www.mlb.com/cubs/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+   },
+   {
+    "date": "2026-10-14T19:00-04:00",
+    "kind": "news",
+    "players": [],
+    "source": "MLB.com",
+    "summary": "",
+    "tags": [],
+    "title": "Here's one stat from each farm system that caught our eye in 2026",
+    "url": "https://www.mlb.com/cubs/news/best-prospect-stat-from-each-mlb-farm-system-2026"
+   },
+   {
+    "date": "2026-10-14T13:07-04:00",
+    "kind": "news",
+    "players": [],
+    "source": "MLB.com",
+    "summary": "",
+    "tags": [],
+    "title": "Cubs lead NL with 5 Gold Glove nominees",
+    "url": "https://www.mlb.com/cubs/news/2026-gold-glove-award-finalists"
+   },
+   {
+    "date": "2026-10-14T07:19-04:00",
+    "kind": "news",
+    "players": [],
+    "source": "MLB.com",
+    "summary": "",
+    "tags": [],
+    "title": "These players stood out in Cubs\u2019 farm system in \u201826",
+    "url": "https://www.mlb.com/cubs/news/cubs-prospects-who-stood-out-in-2026"
    },
    {
     "date": "2026-10-13T15:35:15Z",
@@ -329,16 +349,6 @@
     "url": "https://www.mlb.com/cubs/news/prospect-team-of-the-year-2026"
    },
    {
-    "date": "2026-09-28T20:23-04:00",
-    "kind": "news",
-    "players": [],
-    "source": "MLB.com",
-    "summary": "Previewing the Wild Card Round | Morning Lineup",
-    "tags": [],
-    "title": "Podcast: Previewing the Wild Card round",
-    "url": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/29/3c77c577-b797efe9-388888b9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
-   },
-   {
     "date": "2026-09-27T22:59:28Z",
     "kind": "news",
     "players": [
@@ -351,16 +361,6 @@
     ],
     "title": "Alex Bregman's huge day at the plate in relocated season finale powers Cubs to 6-2 win over Red Sox",
     "url": "http://www.espn.com/mlb/recap?gameId=401817089"
-   },
-   {
-    "date": "2026-09-27T22:10-04:00",
-    "kind": "news",
-    "players": [],
-    "source": "MLB.com",
-    "summary": "",
-    "tags": [],
-    "title": "Cubs-Padres position-by-position breakdown",
-    "url": "https://www.mlb.com/cubs/news/cubs-padres-2026-nlwc-position-by-position-breakdown"
    },
    {
     "date": "2026-09-27T21:15-04:00",
@@ -523,5 +523,5 @@
    }
   ]
  },
- "updated": "2026-10-14T11:49:57-04:00"
+ "updated": "2026-10-14T21:34:08-04:00"
 }

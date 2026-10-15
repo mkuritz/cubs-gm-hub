@@ -3,9 +3,39 @@
   "mlb_tx": [
    {
     "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent SS Esau Taveras to a minor league contract.",
-    "id": 837850,
-    "name": "Esau Taveras"
+    "desc": "Chicago Cubs signed free agent SS Samir Guerrero to a minor league contract.",
+    "id": 824932,
+    "name": "Samir Guerrero"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Chicago Cubs signed free agent SS Johan Geraldo to a minor league contract.",
+    "id": 837852,
+    "name": "Johan Geraldo"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Chicago Cubs signed free agent LHP Jose Serva to a minor league contract.",
+    "id": 837845,
+    "name": "Jose Serva"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Chicago Cubs signed free agent SS Luis Thomas to a minor league contract.",
+    "id": 837854,
+    "name": "Luis Thomas"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Chicago Cubs signed free agent SS Giancarlos Mendoza to a minor league contract.",
+    "id": 822295,
+    "name": "Giancarlos Mendoza"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Chicago Cubs signed free agent RHP Yamel Pinto to a minor league contract.",
+    "id": 837861,
+    "name": "Yamel Pinto"
    },
    {
     "date": "2026-01-15",
@@ -27,51 +57,9 @@
    },
    {
     "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent SS Luis Thomas to a minor league contract.",
-    "id": 837854,
-    "name": "Luis Thomas"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent LHP Jose Serva to a minor league contract.",
-    "id": 837845,
-    "name": "Jose Serva"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent SS Luis German to a minor league contract.",
-    "id": 837847,
-    "name": "Luis German"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent SS Samir Guerrero to a minor league contract.",
-    "id": 824932,
-    "name": "Samir Guerrero"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent SS Johan Geraldo to a minor league contract.",
-    "id": 837852,
-    "name": "Johan Geraldo"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent SS Eduardo Gonzalez to a minor league contract.",
-    "id": 822294,
-    "name": "Eduardo Gonzalez"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent OF Yanfri Serrano to a minor league contract.",
-    "id": 822218,
-    "name": "Yanfri Serrano"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent OF Albert Moreno to a minor league contract.",
-    "id": 824976,
-    "name": "Albert Moreno"
+    "desc": "Chicago Cubs signed free agent RHP Jose Avendano to a minor league contract.",
+    "id": 837890,
+    "name": "Jose Avendano"
    },
    {
     "date": "2026-01-15",
@@ -81,15 +69,39 @@
    },
    {
     "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent RHP Jose Avendano to a minor league contract.",
-    "id": 837890,
-    "name": "Jose Avendano"
+    "desc": "Chicago Cubs signed free agent Marcos Mateo to a minor league contract.",
+    "id": 825173,
+    "name": "Marcos Mateo"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Chicago Cubs signed free agent SS Esau Taveras to a minor league contract.",
+    "id": 837850,
+    "name": "Esau Taveras"
    },
    {
     "date": "2026-01-15",
     "desc": "Chicago Cubs signed free agent OF Kotaro Tsunematsu to a minor league contract.",
     "id": 837857,
     "name": "Kotaro Tsunematsu"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Chicago Cubs signed free agent SS Luis German to a minor league contract.",
+    "id": 837847,
+    "name": "Luis German"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Chicago Cubs signed free agent SS Franyel Almanzar to a minor league contract.",
+    "id": 838011,
+    "name": "Franyel Almanzar"
+   },
+   {
+    "date": "2026-01-15",
+    "desc": "Chicago Cubs signed free agent RHP Yadier Concepcion to a minor league contract.",
+    "id": 837885,
+    "name": "Yadier Concepcion"
    },
    {
     "date": "2026-01-15",
@@ -111,33 +123,21 @@
    },
    {
     "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent SS Franyel Almanzar to a minor league contract.",
-    "id": 838011,
-    "name": "Franyel Almanzar"
+    "desc": "Chicago Cubs signed free agent SS Eduardo Gonzalez to a minor league contract.",
+    "id": 822294,
+    "name": "Eduardo Gonzalez"
    },
    {
     "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent RHP Yadier Concepcion to a minor league contract.",
-    "id": 837885,
-    "name": "Yadier Concepcion"
+    "desc": "Chicago Cubs signed free agent OF Yanfri Serrano to a minor league contract.",
+    "id": 822218,
+    "name": "Yanfri Serrano"
    },
    {
     "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent OF Luis Diaz to a minor league contract.",
-    "id": 822222,
-    "name": "Luis Diaz"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent SS D'Alessandro Barile to a minor league contract.",
-    "id": 837884,
-    "name": "D'Alessandro Barile"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent SS Giancarlos Mendoza to a minor league contract.",
-    "id": 822295,
-    "name": "Giancarlos Mendoza"
+    "desc": "Chicago Cubs signed free agent OF Albert Moreno to a minor league contract.",
+    "id": 824976,
+    "name": "Albert Moreno"
    },
    {
     "date": "2026-01-15",
@@ -147,21 +147,21 @@
    },
    {
     "date": "2026-01-15",
+    "desc": "Chicago Cubs signed free agent SS D'Alessandro Barile to a minor league contract.",
+    "id": 837884,
+    "name": "D'Alessandro Barile"
+   },
+   {
+    "date": "2026-01-15",
     "desc": "Chicago Cubs signed free agent SS Jaims Martinez to a minor league contract.",
     "id": 837824,
     "name": "Jaims Martinez"
    },
    {
     "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent RHP Yamel Pinto to a minor league contract.",
-    "id": 837861,
-    "name": "Yamel Pinto"
-   },
-   {
-    "date": "2026-01-15",
-    "desc": "Chicago Cubs signed free agent Marcos Mateo to a minor league contract.",
-    "id": 825173,
-    "name": "Marcos Mateo"
+    "desc": "Chicago Cubs signed free agent OF Luis Diaz to a minor league contract.",
+    "id": 822222,
+    "name": "Luis Diaz"
    },
    {
     "date": "2026-01-16",
@@ -171,15 +171,15 @@
    },
    {
     "date": "2026-01-23",
-    "desc": "Chicago Cubs signed free agent RHP Trent Thornton to a minor league contract.",
-    "id": 663423,
-    "name": "Trent Thornton"
-   },
-   {
-    "date": "2026-01-23",
     "desc": "Chicago Cubs signed free agent RHP Tyler Ras to a minor league contract.",
     "id": 680724,
     "name": "Tyler Ras"
+   },
+   {
+    "date": "2026-01-23",
+    "desc": "Chicago Cubs signed free agent RHP Trent Thornton to a minor league contract.",
+    "id": 663423,
+    "name": "Trent Thornton"
    },
    {
     "date": "2026-01-24",
@@ -195,18 +195,6 @@
    },
    {
     "date": "2026-01-26",
-    "desc": "Chicago Cubs signed free agent LHP Charlie Barnes to a minor league contract.",
-    "id": 656212,
-    "name": "Charlie Barnes"
-   },
-   {
-    "date": "2026-01-26",
-    "desc": "Chicago Cubs signed free agent LF Chas McCormick to a minor league contract.",
-    "id": 676801,
-    "name": "Chas McCormick"
-   },
-   {
-    "date": "2026-01-26",
     "desc": "Chicago Cubs signed free agent SS Karson Simas to a minor league contract.",
     "id": 689302,
     "name": "Karson Simas"
@@ -218,10 +206,16 @@
     "name": "Dylan Carlson"
    },
    {
-    "date": "2026-01-27",
-    "desc": "Chicago Cubs signed free agent OF Alexander Ramirez to a minor league contract.",
-    "id": 682643,
-    "name": "Alexander Ramirez"
+    "date": "2026-01-26",
+    "desc": "Chicago Cubs signed free agent LF Chas McCormick to a minor league contract.",
+    "id": 676801,
+    "name": "Chas McCormick"
+   },
+   {
+    "date": "2026-01-26",
+    "desc": "Chicago Cubs signed free agent LHP Charlie Barnes to a minor league contract.",
+    "id": 656212,
+    "name": "Charlie Barnes"
    },
    {
     "date": "2026-01-27",
@@ -230,10 +224,16 @@
     "name": "Alex Ram\u00edrez"
    },
    {
+    "date": "2026-01-27",
+    "desc": "Chicago Cubs signed free agent OF Alexander Ramirez to a minor league contract.",
+    "id": 682643,
+    "name": "Alexander Ramirez"
+   },
+   {
     "date": "2026-02-03",
-    "desc": "Chicago Cubs signed free agent 2B Owen Miller to a minor league contract.",
-    "id": 680911,
-    "name": "Owen Miller"
+    "desc": "Chicago Cubs signed free agent RHP Vince Velasquez to a minor league contract.",
+    "id": 592826,
+    "name": "Vince Velasquez"
    },
    {
     "date": "2026-02-03",
@@ -243,9 +243,9 @@
    },
    {
     "date": "2026-02-03",
-    "desc": "Chicago Cubs signed free agent RHP Vince Velasquez to a minor league contract.",
-    "id": 592826,
-    "name": "Vince Velasquez"
+    "desc": "Chicago Cubs signed free agent 2B Owen Miller to a minor league contract.",
+    "id": 680911,
+    "name": "Owen Miller"
    },
    {
     "date": "2026-02-04",
@@ -273,15 +273,15 @@
    },
    {
     "date": "2026-02-21",
-    "desc": "Chicago Cubs signed free agent SS Alex Madera to a minor league contract.",
-    "id": 823702,
-    "name": "Alex Madera"
-   },
-   {
-    "date": "2026-02-21",
     "desc": "Chicago Cubs signed free agent SS Jaylen Palmer to a minor league contract.",
     "id": 681941,
     "name": "Jaylen Palmer"
+   },
+   {
+    "date": "2026-02-21",
+    "desc": "Chicago Cubs signed free agent SS Alex Madera to a minor league contract.",
+    "id": 823702,
+    "name": "Alex Madera"
    },
    {
     "date": "2026-02-26",
@@ -351,15 +351,15 @@
    },
    {
     "date": "2026-05-18",
-    "desc": "Chicago Cubs signed free agent RHP Alvin De Leon to a minor league contract.",
-    "id": 842077,
-    "name": "Alvin De Leon"
-   },
-   {
-    "date": "2026-05-18",
     "desc": "Chicago Cubs signed free agent C Daniel Bastardo to a minor league contract.",
     "id": 842065,
     "name": "Daniel Bastardo"
+   },
+   {
+    "date": "2026-05-18",
+    "desc": "Chicago Cubs signed free agent RHP Alvin De Leon to a minor league contract.",
+    "id": 842077,
+    "name": "Alvin De Leon"
    },
    {
     "date": "2026-05-27",
@@ -414,14 +414,64 @@
   },
   "signings": [
    {
+    "age": 18,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Samir Guerrero",
+    "period": 2026,
+    "pos": "SS"
+   },
+   {
     "age": 17,
     "bonus": null,
     "bonus_text": "not public in a free source",
     "country": "Dominican Republic",
     "month": "2026-01-15",
-    "name": "Esau Taveras",
+    "name": "Johan Geraldo",
     "period": 2026,
     "pos": "SS"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Jose Serva",
+    "period": 2026,
+    "pos": "P"
+   },
+   {
+    "age": 18,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Luis Thomas",
+    "period": 2026,
+    "pos": "SS"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Venezuela",
+    "month": "2026-01-15",
+    "name": "Giancarlos Mendoza",
+    "period": 2026,
+    "pos": "SS"
+   },
+   {
+    "age": 18,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Venezuela",
+    "month": "2026-01-15",
+    "name": "Yamel Pinto",
+    "period": 2026,
+    "pos": "P"
    },
    {
     "age": 17,
@@ -454,84 +504,14 @@
     "pos": "OF"
    },
    {
-    "age": 18,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Luis Thomas",
-    "period": 2026,
-    "pos": "SS"
-   },
-   {
     "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Jose Serva",
-    "period": 2026,
-    "pos": "P"
-   },
-   {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Luis German",
-    "period": 2026,
-    "pos": "SS"
-   },
-   {
-    "age": 18,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Samir Guerrero",
-    "period": 2026,
-    "pos": "SS"
-   },
-   {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Johan Geraldo",
-    "period": 2026,
-    "pos": "SS"
-   },
-   {
-    "age": 18,
     "bonus": null,
     "bonus_text": "not public in a free source",
     "country": "Venezuela",
     "month": "2026-01-15",
-    "name": "Eduardo Gonzalez",
+    "name": "Jose Avendano",
     "period": 2026,
-    "pos": "SS"
-   },
-   {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Yanfri Serrano",
-    "period": 2026,
-    "pos": "OF"
-   },
-   {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Albert Moreno",
-    "period": 2026,
-    "pos": "OF"
+    "pos": "P"
    },
    {
     "age": 17,
@@ -547,11 +527,21 @@
     "age": 17,
     "bonus": null,
     "bonus_text": "not public in a free source",
-    "country": "Venezuela",
+    "country": "Dominican Republic",
     "month": "2026-01-15",
-    "name": "Jose Avendano",
+    "name": "Marcos Mateo",
     "period": 2026,
-    "pos": "P"
+    "pos": "SS"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Esau Taveras",
+    "period": 2026,
+    "pos": "SS"
    },
    {
     "age": 22,
@@ -562,6 +552,36 @@
     "name": "Kotaro Tsunematsu",
     "period": 2026,
     "pos": "OF"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Luis German",
+    "period": 2026,
+    "pos": "SS"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Franyel Almanzar",
+    "period": 2026,
+    "pos": "SS"
+   },
+   {
+    "age": 17,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Panama",
+    "month": "2026-01-15",
+    "name": "Yadier Concepcion",
+    "period": 2026,
+    "pos": "P"
    },
    {
     "age": 17,
@@ -594,12 +614,12 @@
     "pos": "P"
    },
    {
-    "age": 17,
+    "age": 18,
     "bonus": null,
     "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
+    "country": "Venezuela",
     "month": "2026-01-15",
-    "name": "Franyel Almanzar",
+    "name": "Eduardo Gonzalez",
     "period": 2026,
     "pos": "SS"
    },
@@ -607,19 +627,29 @@
     "age": 17,
     "bonus": null,
     "bonus_text": "not public in a free source",
-    "country": "Panama",
+    "country": "Dominican Republic",
     "month": "2026-01-15",
-    "name": "Yadier Concepcion",
+    "name": "Yanfri Serrano",
     "period": 2026,
-    "pos": "P"
+    "pos": "OF"
    },
    {
     "age": 17,
     "bonus": null,
     "bonus_text": "not public in a free source",
-    "country": "Colombia",
+    "country": "Dominican Republic",
     "month": "2026-01-15",
-    "name": "Luis Diaz",
+    "name": "Albert Moreno",
+    "period": 2026,
+    "pos": "OF"
+   },
+   {
+    "age": 19,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-15",
+    "name": "Luis Martinez",
     "period": 2026,
     "pos": "P"
    },
@@ -634,26 +664,6 @@
     "pos": "SS"
    },
    {
-    "age": 17,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Venezuela",
-    "month": "2026-01-15",
-    "name": "Giancarlos Mendoza",
-    "period": 2026,
-    "pos": "SS"
-   },
-   {
-    "age": 19,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-15",
-    "name": "Luis Martinez",
-    "period": 2026,
-    "pos": "P"
-   },
-   {
     "age": 18,
     "bonus": null,
     "bonus_text": "not public in a free source",
@@ -664,24 +674,14 @@
     "pos": "SS"
    },
    {
-    "age": 18,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Venezuela",
-    "month": "2026-01-15",
-    "name": "Yamel Pinto",
-    "period": 2026,
-    "pos": "P"
-   },
-   {
     "age": 17,
     "bonus": null,
     "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
+    "country": "Colombia",
     "month": "2026-01-15",
-    "name": "Marcos Mateo",
+    "name": "Luis Diaz",
     "period": 2026,
-    "pos": "SS"
+    "pos": "P"
    },
    {
     "age": 17,
@@ -704,22 +704,22 @@
     "pos": "P"
    },
    {
-    "age": 24,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-01-27",
-    "name": "Alexander Ramirez",
-    "period": 2026,
-    "pos": "OF"
-   },
-   {
     "age": 23,
     "bonus": null,
     "bonus_text": "not public in a free source",
     "country": "Dominican Republic",
     "month": "2026-01-27",
     "name": "Alex Ram\u00edrez",
+    "period": 2026,
+    "pos": "OF"
+   },
+   {
+    "age": 24,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-01-27",
+    "name": "Alexander Ramirez",
     "period": 2026,
     "pos": "OF"
    },
@@ -774,16 +774,6 @@
     "pos": "P"
    },
    {
-    "age": 18,
-    "bonus": null,
-    "bonus_text": "not public in a free source",
-    "country": "Dominican Republic",
-    "month": "2026-05-18",
-    "name": "Alvin De Leon",
-    "period": 2026,
-    "pos": "P"
-   },
-   {
     "age": 17,
     "bonus": null,
     "bonus_text": "not public in a free source",
@@ -792,6 +782,16 @@
     "name": "Daniel Bastardo",
     "period": 2026,
     "pos": "C"
+   },
+   {
+    "age": 18,
+    "bonus": null,
+    "bonus_text": "not public in a free source",
+    "country": "Dominican Republic",
+    "month": "2026-05-18",
+    "name": "Alvin De Leon",
+    "period": 2026,
+    "pos": "P"
    },
    {
     "age": 24,
@@ -817,5 +817,5 @@
   "source": "MLB Stats API transactions (non-US-born players signed to minor league deals since Jan 15)",
   "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=112"
  },
- "updated": "2026-10-14T11:50:08-04:00"
+ "updated": "2026-10-15T11:36:05-04:00"
 }

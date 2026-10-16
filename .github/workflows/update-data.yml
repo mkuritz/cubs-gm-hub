@@ -2,8 +2,8 @@ name: Update Cubs data
 
 on:
   schedule:
-    - cron: "19 11 * * *"    # ~7:00 AM ET (6 AM during EST): full refresh
-    - cron: "19 23 * * *"    # ~7:00 PM ET: evening news/rumors/transactions refresh
+    # Primary schedule lives in the Cloudflare sl-scheduler (7:15 AM full / PM news ET). This is a sparse daily backup.
+    - cron: "19 14 * * *"   # ~10 AM ET backup full refresh
   workflow_dispatch:
     inputs:
       mode:

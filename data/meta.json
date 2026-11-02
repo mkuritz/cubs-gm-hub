@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T07:16:12-05:00",
+ "updated": "2026-11-02T17:48:01-05:00",
  "data": {
-  "lastRun": "2026-11-02T07:16:12-05:00",
+  "lastRun": "2026-11-02T17:48:01-05:00",
   "mode": "full",
   "status": {
    "roster.json": "unchanged",
@@ -11,16 +11,16 @@
    "farm.json": "unchanged",
    "draft.json": "unchanged",
    "transactions.json": "updated",
-   "injuries.json": "unchanged",
+   "injuries.json": "updated",
    "news.json": "updated",
-   "rumors.json": "unchanged",
+   "rumors.json": "updated",
    "prospects.json": "updated",
-   "free_agents.json": "unchanged",
+   "free_agents.json": "updated",
    "trade_market.json": "updated",
-   "international.json": "unchanged",
+   "international.json": "updated",
    "performance.json": "unchanged",
    "arbitration.json": "unchanged"
   },
-  "lastFull": "2026-11-02T07:16:12-05:00"
+  "lastFull": "2026-11-02T17:48:01-05:00"
  }
 }

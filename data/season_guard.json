@@ -1,12 +1,27 @@
 {
- "generated": "2026-11-03T07:15:59-05:00",
+ "generated": "2026-11-21T07:15:46-05:00",
  "seasons": {
   "nfl": 2026,
   "mlb": 2026,
   "nhl": 20262027
  },
  "checked": 34,
- "conflicts": [],
+ "conflicts": [
+  {
+   "src": "roster.json",
+   "sport": "mlb",
+   "player": "Ethan Roberts",
+   "team": "CHC",
+   "why": "not on CHC live 2026 roster for 2026-11-21"
+  },
+  {
+   "src": "roster.json",
+   "sport": "mlb",
+   "player": "Gabriel Arias",
+   "team": "CHC",
+   "why": "not on CHC live 2026 roster for 2026-11-21"
+  }
+ ],
  "unverified": [],
  "stale": [],
  "notes": []
